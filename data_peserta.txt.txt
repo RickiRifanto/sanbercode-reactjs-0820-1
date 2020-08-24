@@ -1,6 +1,0 @@
-Data Peserta Sanbercode Bootcamp ReactJS
-1. Nama: Ricki rifanto
-2. Email: Ricki.sky04@gmail.com 
-3. Sistem Operasi yang digunakan: windows
-4. Akun Gitlab: ricki.sky04@gmail.com
-5. Akun Telegram: Ricki Rifanto
